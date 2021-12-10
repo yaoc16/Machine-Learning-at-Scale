@@ -1,6 +1,14 @@
 # Flight Delay Prediction
 #### MIDS W261: Machine Learning at Scale | Fall 2021 | Final Project
-#### Team 8: Ferdous Alam, Yao Chen, Toby Petty, Zixi Wang
+#### Author: Yao Chen, Toby Petty, Zixi Wang, Ferdous Alam
+
+
+#### Introduction:
+
+Flight delays are a widespread problem in the United States and across the globe. The impact of flight delay can be a risk that represents financial losses, the dissatisfaction of passengers, time losses, loss of reputation and bad business relations. The ability to predict flight delays will help to reduce strain on the air travel system and result in significant financial savings for airlines and passengers.
+
+Delayed flights are defined by the Federal Aviation Administration as a flight which arrives or departs more than 15  minutes later than scheduled. In 2019, the arrival delay rate was 19.2% and the departure delay rate was 18.18% in the United States[1](https://data.worldbank.org/indicator/IS.AIR.PSGR). The aim of our study is to predict departure delay as a binary yes/no feature, meaning flights that depart 15 minutes or more later than the schedule departure time (referred to as DEP_DEL15 in the flights dataset). As the flight departure time approaches the estimates for delays will increase in accuracy, but be less valuable for airlines and passengers. Given the tradeoff between accuracy and usefulness of delay prediction we have opted to predict the departure delay 2 hours ahead of scheduled departure time.
+
 
 -  Final write-up:[W261_AU21_FINAL_PROJECT.ipynb](https://github.com/yaoc16/Machine-Learning-at-Scale-W261-Final-Project/blob/main/W261_AU21_FINAL_PROJECT.ipynb)
 -  [Presentation slides](https://github.com/yaoc16/Machine-Learning-at-Scale-W261-Final-Project/blob/main/Flight%20Delay%20Prediction%20-%20Presentation%20Slides.pdf)
