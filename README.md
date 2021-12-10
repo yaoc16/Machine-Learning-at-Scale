@@ -1,5 +1,3 @@
-# Machine-Learning-at-Scale-W261-Final-Project
-
 # Flight Delay Prediction
 ### MIDS W261: Machine Learning at Scale | Fall 2021 | Final Project
 ### Team 8: Ferdous Alam, Yao Chen, Toby Petty, Zixi Wang
