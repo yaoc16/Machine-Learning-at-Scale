@@ -11,7 +11,7 @@ Delayed flights are defined by the Federal Aviation Administration as a flight w
 
 
 -  Final Report: [W261_AU21_FINAL_PROJECT.ipynb](https://github.com/yaoc16/Machine-Learning-at-Scale-W261-Final-Project/blob/main/W261_AU21_FINAL_PROJECT.ipynb)
--  [Presentation slides](https://github.com/yaoc16/Machine-Learning-at-Scale-W261-Final-Project/blob/main/Flight%20Delay%20Prediction%20-%20Presentation%20Slides.pdf)
+-  [Presentation Slides](https://github.com/yaoc16/Machine-Learning-at-Scale-W261-Final-Project/blob/main/Flight%20Delay%20Prediction%20-%20Presentation%20Slides.pdf)
 
 
 
