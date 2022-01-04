@@ -1,9 +1,9 @@
 # Flight Delay Prediction
 MIDS W261: Machine Learning at Scale | Fall 2021 | Final Project
-#### Author: Yao Chen, Toby Petty, Zixi Wang, Ferdous Alam
+#### Author: [Yao Chen](https://github.com/yaoc16), [Toby Petty](https://github.com/toby-p), [Zixi Wang](https://github.com/zwang-MIDS), [Ferdous Alam](https://github.com/F-Alam)
 
 
-Introduction:
+## Introduction:
 
 Flight delays are a widespread problem in the United States and across the globe. The impact of flight delay can be a risk that represents financial losses, the dissatisfaction of passengers, time losses, loss of reputation and bad business relations. The ability to predict flight delays will help to reduce strain on the air travel system and result in significant financial savings for airlines and passengers.
 
